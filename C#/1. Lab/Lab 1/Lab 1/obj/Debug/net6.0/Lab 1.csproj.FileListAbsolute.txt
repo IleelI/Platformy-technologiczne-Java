@@ -1,0 +1,15 @@
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/bin/Debug/net6.0/Lab 1
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/bin/Debug/net6.0/Lab 1.deps.json
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/bin/Debug/net6.0/Lab 1.runtimeconfig.json
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/bin/Debug/net6.0/Lab 1.dll
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/bin/Debug/net6.0/Lab 1.pdb
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.csproj.AssemblyReference.cache
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.AssemblyInfoInputs.cache
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.AssemblyInfo.cs
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.csproj.CoreCompileInputs.cache
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.dll
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/refint/Lab 1.dll
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.pdb
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/Lab 1.genruntimeconfig.cache
+/Users/bartoszelert/Documents/Studia/4. Semestr/Platformy technologiczne/Lab/C#/1. Lab/Lab 1/Lab 1/obj/Debug/net6.0/ref/Lab 1.dll
